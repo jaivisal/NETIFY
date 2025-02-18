@@ -1,9 +1,6 @@
-<h1 align="center">BlueBird-Movies</h1>
-BlueBird-Movies is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
+<h1 align="center">Netify</h1>
+NETIFY is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
 <hr/>
-
-![background](https://user-images.githubusercontent.com/87109400/231843668-00e0d9aa-8447-4148-8a3a-0b68135c0795.png)
-
 <hr/>
 
 # 🍿 Features 
@@ -77,17 +74,3 @@ This will start the application. Open a web browser and navigate to http://local
 Note: Ensure that you have carefully added the TMDB API key and Firebase authentication configuration to your .env file. If the .env file is not working, add all the API keys and configuration manually.
 
 <hr/>
-
-# 🍿 Demo 
-
-- Check out our live demo at https://bluebirdmovies.netlify.app/ 
- 
-- Youtube video : https://www.youtube.com/watch?v=mGqOOtEGmJc.
-
-https://github.com/tushar-2223/BlueBird-Movies/assets/87109400/2c13988f-d058-456b-a2e3-f3b716646fe6
-
-
-  
-
-# 😍 Contribution
-Contributions are always welcome, open a **Pull Request** and help us improve our project.
